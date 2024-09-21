@@ -1,0 +1,21 @@
+h1{
+    font-size: 90px;
+}
+
+#heading{
+    color: #3B3030;
+}
+
+.center{
+    text-align: center;
+    list-style-position: outside;
+}
+
+.list{
+    font-size: 45px;
+    color: #3B3030;
+}
+
+body{
+    background: #FFF0D1;
+}
